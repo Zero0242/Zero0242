@@ -315,10 +315,3 @@
 		src="https://github-readme-stats.vercel.app/api?username=zero0242&show_icons=true&locale=en"
 		alt="zero0242" />
 </p>
-
-<p>
-	<img
-		align="center"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=zero0242&"
-		alt="zero0242" />
-</p>
