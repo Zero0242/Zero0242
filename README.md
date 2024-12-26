@@ -321,6 +321,8 @@
 		alt="zero0242" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/Zero0242/Zero0242/output/github-contribution-grid-snake-dark.svg)
+
 # Certificados de Udemy
 
 |     | Curso                                                        | Tema         | Certificado                                                                                        | Curso                                                                |
