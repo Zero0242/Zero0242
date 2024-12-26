@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **pedrocorream99@gmail.com**
-
 - ⚡ Fun fact **comencé odiando javascript pero ya me encariñe con el lenguaje**
 
 <h3 align="left">Connect with me:</h3>
