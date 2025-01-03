@@ -300,7 +300,7 @@
 <p>
 	<img
 		align="left"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=zero0242&show_icons=true&locale=en&layout=compact&exclude_repo=Zero0242.github.io"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=zero0242&show_icons=true&locale=en&layout=compact&exclude_repo=Zero0242.github.io,docker-devcontainers"
 		alt="zero0242" />
 </p>
 
