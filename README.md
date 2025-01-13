@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zero0242](https://github.com/Zero0242)
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **flutter, expressjs, nestjs**
 
 - ⚡ Fun fact **comencé odiando javascript pero ya me encariñe con el lenguaje**
 
