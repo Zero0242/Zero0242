@@ -13,6 +13,16 @@
 
 - ⚡ Fun fact **comencé odiando javascript pero ya me encariñe con el lenguaje**
 
+<!-- Uhhhhhhhhhhhhhh -->
+<p align="center">
+	<img
+		src="https://media1.tenor.com/m/-dpkiFxtXccAAAAd/cirno-touhou.gif"
+		alt="fishing"
+		height="50"
+		width="50" />
+</p>
+<!-- Uhhhhhhhhhhhhhh -->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a
