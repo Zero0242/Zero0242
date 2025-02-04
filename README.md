@@ -319,12 +319,12 @@
 		alt="zero0242" />
 </p>
 
-<p>
+<!-- <p>
 	<img
 		align="center"
 		src="https://github-readme-streak-stats.herokuapp.com/?user=zero0242&"
 		alt="zero0242" />
-</p>
+</p> -->
 
 ![Snake animation](https://raw.githubusercontent.com/Zero0242/Zero0242/output/github-contribution-grid-snake-dark.svg)
 
