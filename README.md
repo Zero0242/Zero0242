@@ -15,8 +15,8 @@
 	<img
 		src="https://media1.tenor.com/m/-dpkiFxtXccAAAAd/cirno-touhou.gif"
 		alt="fishing"
-		height="50"
-		width="50" />
+		height="75"
+		width="75" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
